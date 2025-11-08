@@ -1,7 +1,6 @@
 <html>
 <head>
 	<meta charset="UTF8">
-	<title>Memories</title>
 </head>
 <body>
 	<h1> The time I donated you robux!!</h1>
